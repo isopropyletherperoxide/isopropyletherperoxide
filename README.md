@@ -1,5 +1,7 @@
-worlds gayest chemist 
-she/they
+Amateur Chemist, Electronics Hobbyist, FOSS Appreciator
+
+- Languages: C
+- Currently Learning: Haskell
 <!--
 **isopropyletherperoxide/isopropyletherperoxide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
