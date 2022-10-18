@@ -1,4 +1,4 @@
-Amateur Chemist, Electronics Hobbyist, Terrible Programmer
+Amateur Chemist, Electronics Hobbyist
 
 - Languages: C
-- Currently Learning: C++, Scheme
+- Currently Learning: Golang, Haskell, Scheme
