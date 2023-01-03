@@ -1,6 +1,6 @@
 Amateur Chemist, Electronics Hobbyist, Compsci Enthusiast
 
 - Languages: C
-- Currently Learning: Go, Haskell
+- Currently Learning: Rust, Haskell
 
 [Website/Blog](https://isopropyletherperoxide.github.io/)
