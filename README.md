@@ -1,4 +1,4 @@
-Amateur Chemist, Electronics Hobbyist, Compsci Enthusiast
+Home Chemist, Electronics Hobbyist (HV and Analog), Compsci Enthusiast. (she/they)
 
 - Languages: C
 - Currently Learning: Rust, Haskell
