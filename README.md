@@ -1,6 +1,6 @@
 Aryl (she/they)
 
-Chemist 🧪, Electronics Hobbyist (HV and Analog) and CompSci Enthusiast. 
+- Chemist 🧪, Electronics Hobbyist (HV and Analog) and CompSci Enthusiast. 
 
 
 [![Aryl's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=isopropyletherperoxide&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
